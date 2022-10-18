@@ -15,12 +15,12 @@ Many years ago, I believed it would be fun to add an uwu extension to my friends
 
 ## Reviews from users
 > "fantastic. the gaps from the brain cells i have lost have been filled with uwu"   
-> - Firefox user 17614128
+> *By Firefox user 17614128*
       
 > "perfectus"   
-> - Pedro1745
+> *By Pedro1745*
    
 > "uwu"   
-> - keanx
+> *By keanx*
 
    
