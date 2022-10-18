@@ -7,7 +7,7 @@
   <p align="center">
     This addon will uwu the heck out of your browsing desires~
     <br />
-    <a href="https://addons.mozilla.org/en-US/firefox/addon/uwufier/reviews/">Download here</a>
+    <a href="https://addons.mozilla.org/en-US/firefox/addon/uwufier/">Download here</a>
 </div>
 
 ## History of the project
